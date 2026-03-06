@@ -1,3 +1,3 @@
-# Data Science Course
+# Git Course
 
-Crash course for DS
+Crash course for GIT
